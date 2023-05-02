@@ -18,7 +18,7 @@ Blab-a-Gag is a fairly simple forum type application which allows:
 
 `/blabbers` shows a list of all other users and allows the current user to listen orawef ignore.
 
-`/profile` allows the current user to modify their profile.asdf
+`/profile` allows the current user to modify their profile.asdfawef
 
 `/login` allows you to log in to your account
 
