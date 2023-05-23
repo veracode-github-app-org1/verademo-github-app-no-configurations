@@ -10,12 +10,12 @@ Blab-a-Gag is a fairly simple forum type application which allows:
 ### URLs
 
 `/reset` will reset the data in the database with a load of:
- - users
- - jokes
+ - usersawef
+ - jokesawef
  - heckles
-  
+  awefawefawef
 `/feed` shows the jokes/heckles that are relevant to the current user.
-
+awfeawef
 `/blabbers` shows a list of all other users and allows the current user to listen or ignore.
 
 `/profile` allows the current user to modify their profile.
